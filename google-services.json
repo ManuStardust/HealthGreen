@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86676391720",
+    "project_id": "health-green-9d4fe",
+    "storage_bucket": "health-green-9d4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86676391720:android:3b13bed8f4f602fd73721d",
+        "android_client_info": {
+          "package_name": "com.HealthGreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsyHlHmHsv126qIKjRRVCic9Qd3RiEuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
